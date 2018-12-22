@@ -1,0 +1,21 @@
+{
+  "NAME": "Eve-Optimized-Engines",
+  "URL": "https://raw.githubusercontent.com/OhioBob/Eve-Optimized-Engines/master/GameData/EveEngines/EveOptimizedEngines.version",  
+  "DOWNLOAD": "https://github.com/OhioBob/Eve-Optimized-Engines/releases",
+  "CHANGE_LOG_URL": "https://github.com/OhioBob/Eve-Optimized-Engines/blob/master/README.md",
+  "GITHUB": {
+    "USERNAME": "OhioBob",
+    "REPOSITORY": "Eve-Optimized-Engines"
+  },
+  "VERSION": {
+    "MAJOR": 2,
+    "MINOR": 0,
+    "PATCH": 1,
+    "BUILD": 0
+  },
+  "KSP_VERSION_MIN": {
+    "MAJOR": 1,
+    "MINOR": 3,
+    "PATCH": 1
+  }
+}
