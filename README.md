@@ -4,10 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v2.0.2
+## v2.0.3
 
-* Changed internal name of 48-8S Asp, version 2.
-* Added optional config to optimize engines for even higher atmospheric pressures.
+* Changes made to help compatibility with other mods.
 
 ## Description
 
@@ -15,6 +14,6 @@ Eve Optimized Engines provides low expansion ratio variants of six of the game's
 
 ## Installation Instructions
 
-1. Download Eve Optimized Engines v2.0.2.
+1. Download Eve Optimized Engines v2.0.3.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder EveEngines and all its contents.
