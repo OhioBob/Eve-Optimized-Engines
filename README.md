@@ -4,9 +4,9 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v2.0.3
+## v2.0.4
 
-* Changes made to help compatibility with other mods.
+* Updated to KSP 1.9.0, uses new engine models.
 
 ## Description
 
@@ -14,6 +14,6 @@ Eve Optimized Engines provides low expansion ratio variants of six of the game's
 
 ## Installation Instructions
 
-1. Download Eve Optimized Engines v2.0.3.
+1. Download Eve Optimized Engines v2.0.4.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder EveEngines and all its contents.
