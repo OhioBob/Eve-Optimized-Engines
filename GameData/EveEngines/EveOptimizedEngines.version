@@ -8,14 +8,14 @@
     "REPOSITORY": "Eve-Optimized-Engines"
   },
   "VERSION": {
-    "MAJOR": 2,
+    "MAJOR": 3,
     "MINOR": 0,
-    "PATCH": 5,
+    "PATCH": 0,
     "BUILD": 0
   },
   "KSP_VERSION_MIN": {
     "MAJOR": 1,
-    "MINOR": 3,
-    "PATCH": 1
+    "MINOR": 9,
+    "PATCH": 0
   }
 }
