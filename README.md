@@ -15,7 +15,12 @@ Eve Optimized Engines provides low expansion ratio variants of six of the game's
 ## Requirements
 
 [ModuleManager](https://github.com/sarbian/ModuleManager/releases)
+
 [B9 Part Switch](https://github.com/blowfishpro/B9PartSwitch/releases)
+
+## Optional
+
+An optional config is provided that decreases nozzle expansion ratios further for use on planets with even higher atmospheric pressures. It is designed for use with mods such as [Realistic Atmospheres](https://github.com/OhioBob/Realistic-Atmospheres/releases) or [JNSQ](https://github.com/Galileo88/JNSQ/releases), which increase Eve's sea level pressure to 10 atm.
 
 ## Installation Instructions
 
