@@ -4,11 +4,10 @@ This mod is licensed by Creative Commons Attribution-NonCommercial-NoDerivs
 CC BY-NC-ND
 
 ## Changelog
-## v3.0.1
+## v3.0.2
 
-* Fix compatibility issues with mods that change the engine module.
-* Added engine specifications to the variant descriptions.
-* Added "eve" to tags list.
+* Fixed Eve optimized options on Reliant and Swivel engines for KSP 1.12.2+
+* Deleted old deprecated parts.
 
 ## Description
 
@@ -26,6 +25,6 @@ An optional config is provided that decreases nozzle expansion ratios further fo
 
 ## Installation Instructions
 
-1. Download Eve Optimized Engines v3.0.1.
+1. Download Eve Optimized Engines v3.0.2.
 
 2. Copy from [Download]\GameData\ to [KSP]\GameData\ the folder EveEngines and all its contents.
